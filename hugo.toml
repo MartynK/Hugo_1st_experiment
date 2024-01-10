@@ -1,0 +1,4 @@
+baseURL = 'https://martyparty.com/'
+languageCode = 'en-us'
+title = 'HelloWrold...mastercoder @ work'
+theme = 'ananke'
