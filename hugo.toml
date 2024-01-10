@@ -1,4 +1,4 @@
-baseURL = 'https://martyparty.com/'
+baseURL = 'https://martynk.github.io/Hugo_1st_experiment/'
 languageCode = 'en-us'
-title = 'HelloWrold...mastercoder @ work'
+title = 'Trying hout Hugo; nothing can possibley go wrong!'
 theme = 'ananke'
